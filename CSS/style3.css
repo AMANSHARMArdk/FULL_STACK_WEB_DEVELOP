@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.red{
+    background-color: rgb(47, 119, 95);
+    color: rgb(89, 41, 134);
+    height: 300px;
+}
+
+.green{
+    background-color: rgb(46, 107, 161);
+      color: rgb(129, 46, 46);}

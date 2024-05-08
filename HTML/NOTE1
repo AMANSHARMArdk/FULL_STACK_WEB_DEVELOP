@@ -1,0 +1,42 @@
+Static Website
+
+--> a Static Website conatins web pages with fixed content.Each page is coded in HTML and dislpay the same information to every visitor.
+
+Dynamic Website
+
+--> Dynamic Website conatins web pages that are generated in real time.
+---> per user page are change
+
+                                    History of HTML
+  --> HTML was created by Berners-lee in late in 1991
+  --> "HTML 2.0" was the first standard HTML specification which was published in 1995
+  --> HTML 4.01 was major version of HTML and it was published in late 1999
+  --> HTML5 version which is an extension to HTML 4.01, and this version was published in 2012
+
+What is HTML
+ -> HTML stands for HyperText Markup Language.
+ -> HTML is used to create web pages and web applications
+ -> HTML is widely used language on the web
+ -> We can create a static website by HTML only
+ ->Technically, HTML is a markup lnaguage rather than a programming language.
+
+TEXT EDITOR --> notepad and sublime text
+
+                                    HTML5
+ -> Deprecated elements like center, font, and strike have been dropped
+ -> New elements including video,time,nav,section,progress,meter,aside and canvas
+ -> new input attributes incliuding email,URL,dates,and times
+ -> New API's(application programming interface) that offer offline caching, drag and drop support and more 
+ -> support for vector graphics
+ -> support for MathML to allow better display of mathemathical notations
+ -> JavaScript can now run in the background thanks to the JS web worker API
+
+                                    TAGS
+ -> HTML tags are like keywords which defines that how web browser will format and display the content.
+ -> with the help of tags, a web browser can distinguish between an HTML contain and a simple content.
+ -> HTML  tags contain three main parts; opening tag,content and closing tag. but some HTML tags are unclosed tags.
+
+                                    RULES FOR TAGS
+-> all HTML tags must enclosed within <> these brackets.
+-> Every tag in HTML perform different tasks.
+-> if you have used an open tag <tag>, then you must use a close tag </tag>(except some tags)

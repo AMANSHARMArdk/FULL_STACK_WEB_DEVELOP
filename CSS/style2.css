@@ -1,0 +1,12 @@
+    
+
+        #first{
+            background-color: aquamarine;    /* id target*/
+        }
+
+        .big-blue{
+            background-color: blanchedalmond;  /*  class target*/
+            color: cadetblue;   /*  text color  white*/
+        }
+
+    

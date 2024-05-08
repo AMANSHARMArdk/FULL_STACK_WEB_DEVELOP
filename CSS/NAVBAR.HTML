@@ -1,0 +1,56 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      ul {
+        list-style-type: none;
+        padding: 0%;
+        margin: 0%;
+        width: 200px;
+        height: 100%;
+        position: fixed;
+        overflow: auto;
+        background-color: antiquewhite;
+        border: 1px solid black;
+      }
+      li a {
+        text-align: center;
+        border-bottom: 1px solid black;
+      }
+      /* li:last-child {
+        border-bottom: none;
+      } */
+      li a {
+        display: block;
+        padding: 8px 16px;
+
+        color: black;
+        text-decoration: none;
+      }
+      /* li a:hover {
+        background-color: #fff;
+        color: rgb(238, 88, 19);
+      } */
+
+      li a.active {
+        background-color: lightgray;
+        color: white;
+      }
+      li a:hover:not(.active) {
+        background-color: aqua;
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <ul>
+      <li><a class="active" href="#home">Home</a></li>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#home">Home</a></li>
+    </ul>
+  </body>
+</html>
